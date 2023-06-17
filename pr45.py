@@ -1,5 +1,5 @@
 import requests
-import re
+
 
 # get url
 url = input('Enter a URL (include `http://`): ')
