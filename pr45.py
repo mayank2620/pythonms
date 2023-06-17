@@ -1,6 +1,5 @@
 import requests
 
-
 # get url
 url = input('Enter a URL (include `http://`): ')
 
